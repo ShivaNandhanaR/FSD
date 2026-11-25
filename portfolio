@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+<title>My Portfolio</title>
+</head>
+<body>
+<h1><center>My Portfolio</center></h1>
+<hr color="pink">
+<hr color="pink">
+
+<center><img width="150" src="C:\Users\TEMP.KCW.029\Downloads\images.jpg"></center>
+<center><h1><pre><b>Name:</b><i>Shiva Nandhana R</i>
+<b>RegNo:</b><i>24SBCS092</i>
+<b>Department:</b><i>Computer Science<i>
+Date of Joining:<i>10<sup>th</sup> Dec 2024</i>
+<b>Courses:</b><i>AWS, OS, UI/UX</i>
+</pre>
+</h1>
+</center>
+</body>
+</html>
