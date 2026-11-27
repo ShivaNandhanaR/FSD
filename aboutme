@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Basic Webpage</title>
+</head>
+<body>
+<h1>WELCOME TO MY WEBPAGE</h1>
+<hr>
+<h2>About Me</h2>
+<p>My name is Shiva.</p>
+<h2>My Profile</h2>
+<a href="C:\Users\TEMP.KCW.023\Downloads\images.jpg">
+<img src="C:\Users\TEMP.KCW.023\Downloads\images.jpg" width="200" height="150" alt="Click Image">
+<h2>Click Image to View</h2>
+</a>
+<h2>My Favourite Music</h2>
+<audio controls>
+<source src="C:\Users\TEMP.KCW.023\Downloads\FA FA FA.mp3" type="audio/mpeg">
+</audio>
+<h2>My Favourite Video</h2>
+<source src=https://youtu.be/AZ3U1PkKpYo?si=iNUcInufB97_zc81>
+</video>
+<h2>Skillls</h2>
+<ol>
+<li>SQL</li>
+<li>WEB DEVELOPMENT</li>
+<li>C</li>
+<li>PYTHON</li>
+<li>JAVA</li>
+</ol>
+<h2>More Information</h2>
+<a href="about.html">Go to About Page</a>
+</body>
+</html>
